@@ -1,0 +1,50 @@
+[
+  {
+    "id": "shirt-x",
+    "name": "Shirt X",
+    "category": "shirt",
+    "size": "S",
+    "color": "#3b82f6",
+    "measurements": { "chestCm": 92, "waistCm": 88, "lengthCm": 68 }
+  },
+  {
+    "id": "shirt-y",
+    "name": "Shirt Y",
+    "category": "shirt",
+    "size": "M",
+    "color": "#ef4444",
+    "measurements": { "chestCm": 100, "waistCm": 96, "lengthCm": 71 }
+  },
+  {
+    "id": "shirt-z",
+    "name": "Shirt Z",
+    "category": "shirt",
+    "size": "L",
+    "color": "#10b981",
+    "measurements": { "chestCm": 108, "waistCm": 104, "lengthCm": 74 }
+  },
+  {
+    "id": "pants-a",
+    "name": "Pants A",
+    "category": "pants",
+    "size": "38",
+    "color": "#1e3a5f",
+    "measurements": { "waistCm": 78, "hipCm": 96, "lengthCm": 100 }
+  },
+  {
+    "id": "pants-b",
+    "name": "Pants B",
+    "category": "pants",
+    "size": "40",
+    "color": "#6b7280",
+    "measurements": { "waistCm": 82, "hipCm": 100, "lengthCm": 102 }
+  },
+  {
+    "id": "pants-c",
+    "name": "Pants C",
+    "category": "pants",
+    "size": "42",
+    "color": "#a16207",
+    "measurements": { "waistCm": 86, "hipCm": 104, "lengthCm": 104 }
+  }
+]

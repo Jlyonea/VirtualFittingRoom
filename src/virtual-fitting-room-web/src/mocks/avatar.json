@@ -1,0 +1,10 @@
+{
+  "id": "avatar-1",
+  "name": "My avatar",
+  "measurements": {
+    "heightCm": 175,
+    "chestCm": 98,
+    "waistCm": 82,
+    "hipCm": 98
+  }
+}
