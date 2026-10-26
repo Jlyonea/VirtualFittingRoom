@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VirtualFittingRoom.Application/VirtualFittingRoom.Application.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/VirtualFittingRoom.Application.Tests/VirtualFittingRoom.Application.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/VirtualFittingRoom.ImageProcessor/VirtualFittingRoom.ImageProcessor.csproj" />
+  </Folder>
+</Solution>
