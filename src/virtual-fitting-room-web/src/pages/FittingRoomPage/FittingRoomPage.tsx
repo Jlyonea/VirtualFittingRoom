@@ -1,4 +1,4 @@
-import { AvatarView2D } from '../../components/AvatarView2D/AvatarView2D';
+import { AvatarView3D } from '../../components/AvatarView3D/AvatarView3D';
 import { OutfitSummary } from '../../components/OutfitSummary/OutfitSummary';
 import type { Avatar } from '../../types/avatar';
 import type { Outfit } from '../../types/outfit';
@@ -17,7 +17,7 @@ export function FittingRoomPage({ avatar, outfit, onRemoveProduct }: FittingRoom
       <h1>Fitting room</h1>
       {avatar ? (
         <div className={styles.layout}>
-          <AvatarView2D measurements={avatar.measurements} outfit={outfit} />
+          <AvatarView3D measurements={avatar.measurements} outfit={outfit} />
           <OutfitSummary outfit={outfit} onRemove={onRemoveProduct} />
         </div>
       ) : (

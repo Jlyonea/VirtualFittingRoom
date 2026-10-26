@@ -5,8 +5,8 @@ import { FittingRoomPage } from '../../../src/pages/FittingRoomPage/FittingRoomP
 import type { ProductCategory } from '../../../src/types/product';
 import { avatarFixture } from '../../fixtures/avatar';
 
-vi.mock('../../../src/components/AvatarView2D/AvatarView2D', () => ({
-  AvatarView2D: () => <div data-testid="avatar-view" />,
+vi.mock('../../../src/components/AvatarView3D/AvatarView3D', () => ({
+  AvatarView3D: () => <div data-testid="avatar-view" />,
 }));
 
 vi.mock('../../../src/components/OutfitSummary/OutfitSummary', () => ({
